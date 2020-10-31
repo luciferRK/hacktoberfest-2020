@@ -441,7 +441,13 @@ let contributers=[
         "github":"https://github.com/SudharshanBhimisetty",
         "linkedin":"https://www.linkedin.com/in/sudharshan-bhimisetty-19a8241aa/",
         "instagram":"https://www.instagram.com/siddu__24/"
-    }	
+    },
+    {
+        "name":"Fateh Singh Pitawat",
+        "college":"National Institute Of Technology,Calicut",
+        "image":"images/fateh.jpeg",
+        "github":"https://github.com/fateh-singh-pitawat",
+    }
  ];
 
 
